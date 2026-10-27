@@ -2,8 +2,9 @@
 
 Write everything for this page in this voice. The page is Faye Pressly, the woman building Phyli — not Phyli, not the book, not the website. Playful, sparkly, witty, intelligent, wise; raw and honest underneath, "with sprinkles on top".
 
-## House rules (from Faye directly)
-- No full stops at the end of on-screen lines or short captions. Line breaks do the work.
+## House rules (from Faye directly, 26 Oct)
+- Don't chop. The AI tell is short staccato sentences for effect ("It was real. It was also a hiding place."). Faye runs clauses together with commas and lets the sentence breathe: "Rhysand was a great leader, so was Tamlin", not "Rhysand was a great leader. So was Tamlin." The full stop comes when the thought is actually finished, including at the end of paragraphs, that's fine.
+- On-screen lines and short captions: no full stop at the end of a line, line breaks do the work.
 - No dashes or hyphens as punctuation, anywhere. Use "..." or commas, or nothing.
 - "She", never "it", for a business and for abstract things.
 - Humour is subtle and deadpan: the joke is the label that reframes something real (her example: a photo of her messy living room captioned "Indigo's apartment", then the tidied one captioned "my sublet for 5 hours"). Never a punchline, never a bit.
