@@ -25,6 +25,9 @@ Goals behind all of it (from the project brief): grow a community over 12 months
 
 ---
 
+## 1b. The brand brief
+The full @faye.pressly brand brief (who she is, the tension rule, Loewe-with-fairy-magic, what goes wrong, strategy and the offer runway) lives in the **faye-brand-director** skill. Short version: a fairy who has really been through it in corporate, can hold her own on any board, and is rarely seen in a blazer. Fairy, never witchy. Every post carries one clear tension. Business page: no dating. The page builds her world for now and moves towards a first micro offer (hiring and firing: when to hire, when to fire) within a few weeks; check in with her on where that stands.
+
 ## 2. The two accounts
 **@faye.pressly** is her personal brand space: "Faye Pressly building Phyli". It must feel like HER, not phyli.studio and not the website (she asked for this to be remembered, twice). Fully human: her thinking, art, outfits, Palma, motherhood in the margins, humour, weirdness, magic. Links and threads to the house are welcome, the house's look is not. No collab posts between the two grids.
 - **The thread of the page:** fairy / romantasy / magic woven with business and nature. Measure every post against it. (Her name means little fairy. ACOTAR, the Isle of Man Fairy Bridge, the fairy books her mum bought her, the 1917 fairy photograph film.)
@@ -37,7 +40,7 @@ Goals behind all of it (from the project brief): grow a community over 12 months
 ---
 
 ## 3. Colour preferences (be very clear on these)
-**NEVER yellow.** No yellow, butter yellow or mustard font, ever. That includes cream with an orange/ember glow, which reads as butter. (The one butter-yellowish *watercolour photo* on manifesto page 10 was accepted as an image, not a font colour.) Butter and blush are "overused".
+**NEVER butter-yellow text** (everyone is using it). That includes cream with an orange/ember glow, which reads as butter. Some yellow elsewhere is fine (in images, as an accent); it's butter-yellow *type* that's banned. Blush is also "overused".
 
 Her palette: she is a **light summer**. Dusty pink, lilac, periwinkle, silver, ivory/pearl, mauve, slate blue, aubergine/plum, sage, a little iridescence.
 
@@ -50,14 +53,14 @@ Colours approved and in use:
 - **Silver captions with a lilac glow** (236,232,238 with 150,90,170) replaced cream + ember on the Samhain reel
 - Lilac + periwinkle is the signature pair. Coral + aubergine, bubblegum + chartreuse are allowed from the older caption system.
 
-Rejected: butter/mustard/yellow, rust/terracotta and anything warm-orange, beige minimal, and my all-over purple/plum "firelight" filter on the Samhain reel ("I don't like the filter, I'll just use one of mine").
+Rejected: butter-yellow text, rust/terracotta text, beige minimal, and my all-over purple/plum "firelight" filter on the Samhain reel ("I don't like the filter, I'll just use one of mine"). The black-and-white Samhain reel was a one-off for that story, not a direction.
 
 ---
 
 ## 4. Style preferences
 **Overall:** colourful, sparkly, fun, vintage, but the editorial, high-end, pretty, refined version. Y2K meets editorial luxe. Maximal-ish but edited ("eclectic, sexy, sensual", collage-y, layered, purple and silver). Depth, never flat or 2D: real surfaces, layers, light, grain. Handmade beats perfect: imperfection is proof a human was there.
 
-**Materials: always hers.** Her photos, her pastel washes, paintings and ink drawings, photographed from the paper and used **exactly as made**, never "perfected" or digitised (e.g. the PHYLI + lily collage screenshot). Never generated, never faked handwriting. Pinterest/Cosmos images are reference only (she briefly allowed a beetle, then took it out).
+**Materials: always hers.** Her photos, her pastel washes, paintings and ink drawings, photographed from the paper and used **exactly as made**, never "perfected" or digitised (e.g. the PHYLI + lily collage screenshot). Never generated, never faked handwriting. **Updated 28 Oct:** for @faye.pressly collage and maximal pieces, images she saves into the Pinterest/reference folder CAN be cut out and collaged in; her own art is still the first choice.
 
 **Fonts on @faye.pressly:** Rozha (display headline / reel captions), Newsreader (serif body) and Newsreader italic (asides, the little voice), IBM Plex Mono (small tracked labels), a bold grid-tile sans with glow (Inter Bold style) for covers.
 - *Superseded for @faye.pressly:* Courier Prime typewriter reel captions and Plus Jakarta story-sans carousels (video-caption-style.md, 17–18 Oct). Bodoni Moda + DM Sans ("lame"), Arimo ("TikTok-y").
@@ -181,9 +184,9 @@ Why they work: each one is specific, has tension or teeth, mixes the magical wit
 | @phyli.studio: 36 posts, Volumes IX, X, VIII, XII + write-on videos | Scheduled via Metricool | repo `phyli-studio/` |
 
 **Samhain details**: voice cut to 2:17 and re-ordered (lost → Samhain → yurt → sowing → "another baby?" → the cards, the Lady and the Lord, through "divine alignment" → "but as it turns out, a couple of months later…" → balcony, writing → "not a book you sell on Amazon… timeless"). Cut "AKA in January" and "already". Spell Samhain correctly (the transcript says "Sowin"). Opening card "a year ago, almost" (she isn't posting on the 31st); closing card "volume I · vision / begins next week". No daytime Lara clip; fire clips only. Her handwritten Samhain letters are not to be used unless she says.
-Caption: "almost a year ago I sat in a yurt with Lara and a handful of women and planted something I couldn't name yet. she ran the night. I pulled two cards, the Lady and the Lord. a few months later it had a name / this is the night the veil is thinnest, AKA Halloween, and it's the night I'll always count as the beginning / @lararaybone is gathering again this weekend, 30 Oct to 1 Nov, and there are two places left. I'm posting this early so you can still go / what will you plant?" First comment: #samhain #halloween #founder #femalefounder #visioning #retreat #palma
+Caption: "almost a year ago I sat in a yurt with Lara and a handful of women and planted something I couldn't name yet. she ran the night. I pulled two cards, the Lady and the Lord. a few months later it had a name / this is the night the veil is thinnest, AKA Halloween, and it's the night I'll always count as the beginning / @lararaybone is gathering again this weekend, 30 Oct to 1 Nov, and there are two places left. I'm posting this early so you can still go / what will you plant?" First comment: #samhain #halloween #founder #femalefounder #visioning #retreat
 
-**Manifesto carousel caption**: "by continuing to follow, you agree to: outfits, ink, a business book that reads like a body, me changing my mind in public, and swearing at a rate not exceeding five percent / a note, before this page changes. the long version, for the ones who'd rather read it. the house, where the book is read aloud page by page: @phyli.studio". First comment: #founder #femalefounder #businessbook #livingsystems #palma
+**Manifesto carousel caption**: "by continuing to follow, you agree to: outfits, ink, a business book that reads like a body, me changing my mind in public, and swearing at a rate not exceeding five percent / a note, before this page changes. the long version, for the ones who'd rather read it. the house, where the book is read aloud page by page: @phyli.studio". First comment: #founder #femalefounder #businessbook #livingsystems
 
 **Week plan**: Mon Samhain reel · Tue manifesto reel · Wed manifesto carousel · Thu Indigo-vision reel (origin riff 5:30–7:29) · Sat "what came true" carousel · Sun "both. obviously." Then a 30-day grid rearrange and a 30s "what Phyli means" reel. Week two: the fairy thread (voice sheet). Every week: one voice-led reel, one making post, one "you" post, at most one carousel. She wants to post every day, mixing reels and carousels.
 
@@ -194,3 +197,6 @@ Caption: "almost a year ago I sat in a yurt with Lara and a handful of women and
 - **Scheduling**: Metricool (Starter) for faye.pressly Instagram, fayepressly TikTok and phyli.studio Instagram.
 - **Working style**: she's often on her phone; prefers sequential work; concrete decisions over open options; honest critique over reassurance; British English; "Filey" in dictation = Phyli. Strategy walk-throughs as a voice note she can listen to.
 - **A new chat can't see old chats.** It sees this project's docs and memory. Re-attach or re-share the photos and videos you want used.
+
+## 11. Signals log (who responded, and whether they're target clients)
+- **Night Court / ACOTAR carousel (26 Oct):** Sammi (@sammidreiling, founder of Ananda Elixir, a **target client**: founder with a team, and already a Phyli case study) commented "Couldn't love this more" and 👏. Also Lara ("I am OBSESSED"), Rosie (@rosiekpeacock / Peacock Wedding Photography, solo, not yet a target client: "it psychologically landed, it deserves to be viral"), Abdullah (the fairy drawing), Wellness Norfolk. Read: the romantasy-coded leadership format lands with target clients as well as friends.
